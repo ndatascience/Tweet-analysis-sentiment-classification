@@ -1,0 +1,13 @@
+pandas
+numpy
+nltk
+sklearn
+scipy
+string
+os
+codecs
+operator
+matplotlib
+ggplot
+genism
+json
